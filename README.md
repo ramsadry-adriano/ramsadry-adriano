@@ -21,13 +21,11 @@
     "jobTitle": "Étudiant en génie Électronique des signaux et systèmes",
     "url": "https://www.ramsadry.com",
     "sameAs": [
-      "https://app.netlify.com/teams/ramsadry-adriano/builds"
-      "https://www.linkedin.com/in/ramsadry",
-      "https://github.com/ramsadry/projets-publics",
+      "https://www.linkedin.com/in/ramsadry-adriano",
+      "https://github.com/ramsadry-adriano.github.io
       "https://www.facebook.com/ramsadry"
     ],
     "address": {
-      "@type": "Tsiadana 026 A bis",
       "addressLocality": "Antananarivo",
       "addressCountry": "Madagascar"
     }
